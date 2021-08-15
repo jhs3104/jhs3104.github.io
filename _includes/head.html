@@ -11,7 +11,7 @@
     {% endif %}
   </title>
 {$ raw $}  {% seo title=false %} {$ endraw $}
-  {% feed_meta %}
+{$ raw $}{% feed_meta %}{$ endraw $}
 
   <link rel="shortcut icon" type="image/x-icon" href="/{{ site.favicon | relative_url }}" />
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
