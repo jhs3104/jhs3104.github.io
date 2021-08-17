@@ -3,7 +3,7 @@ layout: post
 title: About Me..
 ---
 
-# **Web BackEnd 개발자**
+# **정희수(Jung Heesoo)**
 
 ## *학력*  
 
@@ -17,29 +17,29 @@ title: About Me..
 
 ## *기술 스택*
 
-- Language 
+Language 
 
-​			C/C++, Python, JAVA
+- C/C++, Python, JAVA
 
-- Library / Interface 	
+Library / Interface 	
 
-​			Spring, Spring Boot, Spring MVC, JPA, Numpy
+- Spring, Spring Boot, Spring MVC, JPA, Numpy
 
-- Platform 
+Platform 
 
-​			Linux, OS X
+- Linux, OS X
 
-- Database 
+Database 
 
-​			SQL, H2
+- SQL, H2
 
-- Tool 
+Tool 
 
-​			IntelliJ IDEA, VisualStudio Code, Vim
+- IntelliJ IDEA, VisualStudio Code, Vim
 
-- Collaboration Tool :
+Collaboration Tool :
 
-​			Git, Github, Notion, Slack  
+- Git, Github, Notion, Slack  
 
 
 
